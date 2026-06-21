@@ -25,6 +25,7 @@ Los cambios se agrupan en las siguientes categorías:
 ### Añadido
 
 - Documentos iniciales de `CHANGELOG.md` y `CONTRIBUTING.md`
+- Documento inicial de `README.md`
 
 ---
 
